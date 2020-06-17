@@ -1,0 +1,6 @@
+personal_portfolio_project/*.log
+personal_portfolio_project/*.pot
+personal_portfolio_project/*.pyc
+personal_portfolio_project/__pycache__/
+personal_portfolio_project/local_settings.py
+personal_portfolio_project/settings/
